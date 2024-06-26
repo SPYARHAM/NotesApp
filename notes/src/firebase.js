@@ -48,7 +48,7 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCHIbHKvEHS_kCRTSQlmKcw975XJwmeIyM",
+  // apiKey: "AIzaSyCHIbHKvEHS_kCRTSQlmKcw975XJwmeIyM",
   authDomain: "notes-6dd05.firebaseapp.com",
   databaseURL: "https://notes-6dd05-default-rtdb.firebaseio.com",
   projectId: "notes-6dd05",
